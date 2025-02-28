@@ -34,7 +34,7 @@ Chatbot:
 """.replace("*", "")
 
 # Load API key securely
-API_KEY = "AIzaSyAbJxMIGVQxHT4vp6b1rDadI3yFBdDL4XE"  # 🔥 Use environment variable for security
+API_KEY = "AIzaSyDxDLNclNicHIIrUengWhToNliVNUoeuU0"  # 🔥 Use environment variable for security
 
 if not API_KEY:
     raise ValueError("❌ API key is missing! Set 'GEMINI_API_KEY' as an environment variable.")
